@@ -54,7 +54,7 @@ export const About: React.FC = () => {
               {/* Photo Container */}
               <div className="relative aspect-4/5 rounded-xl overflow-hidden bg-zinc-100 border border-zinc-200/80 group">
                 <img
-                  src="/lucas-barata.png"
+                  src="./lucas-barata.png"
                   alt="Lucas Barata"
                   className="w-full h-full object-cover object-top transition-transform duration-300 group-hover:scale-[1.02]"
                   loading="lazy"
